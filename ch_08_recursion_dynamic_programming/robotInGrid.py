@@ -11,5 +11,7 @@ pos = start
 path = [start]
 badsquares = []
 
+#begginning of robogrid
 def roboGrid(grid, pos, path, badsquares):
+    pass
 
